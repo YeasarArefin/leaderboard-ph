@@ -224,6 +224,9 @@ nav img{
 
 @media only screen and (max-width:688px){
     
+    header{
+      display:none
+    }
     .container{
         width: 100%;
         padding: 0;
